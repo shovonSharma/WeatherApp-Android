@@ -1,7 +1,9 @@
 package branch;
 
 public class slave {
+
     private float a;
+
     private string str2;
 
     public int getB() {
