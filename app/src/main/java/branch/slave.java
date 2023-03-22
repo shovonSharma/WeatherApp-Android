@@ -4,6 +4,16 @@ public class slave {
     private double a;
     private string str2;
 
+    public int getB() {
+        return b;
+    }
+
+    public void setB(int b) {
+        this.b = b;
+    }
+
+    int b;
+
     public double getA() {
         return a;
     }
