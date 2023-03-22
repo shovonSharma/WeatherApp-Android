@@ -1,7 +1,7 @@
 package branch;
 
 public class slave {
-    private double a;
+    private float a; // float here to conflict
     private string str2;
 
     public double getA() {
